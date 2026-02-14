@@ -1001,7 +1001,6 @@
   "tag_format_locked_description": "Tag format is locked. All staff members see this tag when Show Tag is enabled and cannot change it.",
   "tag_format_unlocked_description": "Tag format is unlocked. This is the tag shown to other players when a staff member has Show Tag enabled.",
   "tag_format": "Tag Format",
-  "preview": "Preview",
   "all_staff": "All Staff",
   "all_staff_count": "All Staff ({count})",
   "please_enter_zone_name_and_points": "Please enter a zone name and create at least 3 points",
