@@ -39,6 +39,8 @@
   "author": "Author",
   "avatar": "Avatar",
   "avatar_source": "Avatar Source",
+  "auto_duty_toggles": "Auto on Duty Toggles",
+  "auto_duty_toggles_description": "Toggles to automatically enable when entering duty and disable when leaving duty.",
   "ban": "Ban",
   "ban_information": "Ban Information",
   "bans": "Bans",
@@ -76,6 +78,7 @@
   "chat_creator": "Chat Creator",
   "chat_logs": "Chat logs",
   "chat_name": "Chat Name",
+  "chat_notification_position": "Chat Notification Position",
   "chats": "Chats",
   "clear_history": "Clear History",
   "clone_female": "Clone Female",
@@ -201,6 +204,7 @@
   "female": "Female",
   "fill_in_the_details_for_the_new_event": "Fill in the details for the new event",
   "fix_vehicle": "Fix Vehicle",
+  "flip_vehicle": "Flip Vehicle",
   "flashlight": "Flashlight",
   "food": "Food",
   "fps": "FPS",
@@ -1007,5 +1011,7 @@
   "failed_to_save_zone": "Failed to save zone",
   "failed_to_delete_zone": "Failed to delete zone",
   "locked": "Locked",
-  "unlocked": "Unlocked"
+  "unlocked": "Unlocked",
+  "open_player_stream": "Open Player Stream",
+  "reports_created_off_duty": "Reports created off duty"
 }

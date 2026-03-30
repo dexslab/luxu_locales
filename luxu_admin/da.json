@@ -197,6 +197,7 @@
   "female": "Kvinde",
   "fill_in_the_details_for_the_new_event": "Udfyld detaljerne for den nye begivenhed",
   "fix_vehicle": "Reparér køretøj",
+  "flip_vehicle": "Vend køretøj om",
   "flashlight": "Lommelygte",
   "food": "Mad",
   "fps": "FPS",
@@ -1012,5 +1013,10 @@
   "zone_height": "Zonehøjde",
   "zone_name": "Zonenavn",
   "zone_points_minimum": "Punkter: {count} (minimum 3 påkrævet)",
-  "zone_undo_last_point_hint": "Tryk Ctrl+Z for at fortryde sidste punkt"
+  "zone_undo_last_point_hint": "Tryk Ctrl+Z for at fortryde sidste punkt",
+  "auto_duty_toggles": "Automatiske vagtskift",
+  "auto_duty_toggles_description": "Skift der automatisk aktiveres ved vagtstart og deaktiveres ved vagtafslutning.",
+  "chat_notification_position": "Position for chatbesked",
+  "open_player_stream": "Åbn spillerstream",
+  "reports_created_off_duty": "Rapporter oprettet uden for vagt"
 }

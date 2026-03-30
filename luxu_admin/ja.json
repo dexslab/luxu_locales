@@ -199,6 +199,7 @@
   "female": "女性",
   "fill_in_the_details_for_the_new_event": "新しいイベントの詳細を記入",
   "fix_vehicle": "車両を修理",
+  "flip_vehicle": "車両を起こす",
   "flashlight": "懐中電灯",
   "food": "食品",
   "fps": "FPS",
@@ -1007,5 +1008,10 @@
   "zone_height": "ゾーンの高さ",
   "zone_name": "ゾーン名",
   "zone_points_minimum": "ポイント：{count}（最低3つ必要）",
-  "zone_undo_last_point_hint": "Ctrl+Z で最後のポイントを元に戻す"
+  "zone_undo_last_point_hint": "Ctrl+Z で最後のポイントを元に戻す",
+  "auto_duty_toggles": "自動勤務切り替え",
+  "auto_duty_toggles_description": "勤務開始時に自動で有効化し、勤務終了時に無効化する切り替えです。",
+  "chat_notification_position": "チャット通知の位置",
+  "open_player_stream": "プレイヤーストリームを開く",
+  "reports_created_off_duty": "勤務外で作成されたレポート"
 }

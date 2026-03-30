@@ -197,6 +197,7 @@
   "female": "女性",
   "fill_in_the_details_for_the_new_event": "填写新事件的详细信息",
   "fix_vehicle": "修复车辆",
+  "flip_vehicle": "扶正车辆",
   "flashlight": "手电筒",
   "food": "食物",
   "fps": "FPS",
@@ -1007,5 +1008,10 @@
   "zone_height": "区域高度",
   "zone_name": "区域名称",
   "zone_points_minimum": "点：{count}（至少需要3个）",
-  "zone_undo_last_point_hint": "按 Ctrl+Z 撤销最后一个点"
+  "zone_undo_last_point_hint": "按 Ctrl+Z 撤销最后一个点",
+  "auto_duty_toggles": "自动值班开关",
+  "auto_duty_toggles_description": "进入值班时自动开启，离开值班时自动关闭的开关。",
+  "chat_notification_position": "聊天通知位置",
+  "open_player_stream": "打开玩家直播",
+  "reports_created_off_duty": "非值班时创建的举报"
 }

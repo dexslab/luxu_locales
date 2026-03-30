@@ -197,6 +197,7 @@
   "female": "Femenino",
   "fill_in_the_details_for_the_new_event": "Llena los detalles para el nuevo evento",
   "fix_vehicle": "Reparar Vehículo",
+  "flip_vehicle": "Enderezar Vehículo",
   "flashlight": "Linterna",
   "food": "Comida",
   "fps": "FPS",
@@ -1007,5 +1008,10 @@
   "zone_height": "Altura de zona",
   "zone_name": "Nombre de zona",
   "zone_points_minimum": "Puntos: {count} (mínimo 3 necesarios)",
-  "zone_undo_last_point_hint": "Pulsa Ctrl+Z para deshacer el último punto"
+  "zone_undo_last_point_hint": "Pulsa Ctrl+Z para deshacer el último punto",
+  "auto_duty_toggles": "Interruptores automáticos de servicio",
+  "auto_duty_toggles_description": "Interruptores que se activan automáticamente al entrar en servicio y se desactivan al salir.",
+  "chat_notification_position": "Posición de notificación de chat",
+  "open_player_stream": "Abrir transmisión del jugador",
+  "reports_created_off_duty": "Reportes creados fuera de servicio"
 }
