@@ -1013,5 +1013,16 @@
   "auto_duty_toggles_description": "Interruptores que se ativam automaticamente ao entrar em serviço e se desativam ao sair.",
   "chat_notification_position": "Posição da notificação de chat",
   "open_player_stream": "Abrir transmissão do jogador",
-  "reports_created_off_duty": "Relatórios criados fora de serviço"
+  "reports_created_off_duty": "Relatórios criados fora de serviço",
+  "bank": "Banco",
+  "cash": "Dinheiro",
+  "money_transactions": "Transações monetárias",
+  "money_transactions_description": "Gráfico de dispersão das variações de dinheiro no servidor. Passe o mouse para destacar as transações de um jogador.",
+  "months": "Meses",
+  "no_transaction_data": "Nenhum dado de transação disponível",
+  "showing_points": "Exibindo {shown} de {total} transações (valores discrepantes priorizados)",
+  "transaction_date": "Data",
+  "transaction_method": "Método",
+  "transaction_reason": "Motivo",
+  "weeks": "Semanas"
 }

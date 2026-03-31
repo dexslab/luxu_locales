@@ -1013,5 +1013,21 @@
   "locked": "Locked",
   "unlocked": "Unlocked",
   "open_player_stream": "Open Player Stream",
-  "reports_created_off_duty": "Reports created off duty"
+  "reports_created_off_duty": "Reports created off duty",
+  "money_transactions": "Money Transactions",
+  "money_transactions_description": "Scatter chart of money changes across the server. Hover to highlight a player's transactions.",
+  "account_type": "Account Type",
+  "cash": "Cash",
+  "bank": "Bank",
+  "time_range": "Time Range",
+  "no_transaction_data": "No transaction data available",
+  "transaction_amount": "Amount",
+  "transaction_reason": "Reason",
+  "transaction_method": "Method",
+  "transaction_date": "Date",
+  "loading_character_info": "Loading...",
+  "total_transactions": "Total Transactions",
+  "showing_points": "Showing {shown} of {total} transactions (outliers prioritized)",
+  "months": "Months",
+  "weeks": "Weeks"
 }

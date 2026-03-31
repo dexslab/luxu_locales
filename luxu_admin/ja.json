@@ -1013,5 +1013,16 @@
   "auto_duty_toggles_description": "勤務開始時に自動で有効化し、勤務終了時に無効化する切り替えです。",
   "chat_notification_position": "チャット通知の位置",
   "open_player_stream": "プレイヤーストリームを開く",
-  "reports_created_off_duty": "勤務外で作成されたレポート"
+  "reports_created_off_duty": "勤務外で作成されたレポート",
+  "bank": "銀行",
+  "cash": "現金",
+  "money_transactions": "金銭取引",
+  "money_transactions_description": "サーバー全体の金銭変動を示す散布図。ホバーするとプレイヤーの取引がハイライトされます。",
+  "months": "月",
+  "no_transaction_data": "取引データがありません",
+  "showing_points": "{total} 件中 {shown} 件の取引を表示（外れ値優先）",
+  "transaction_date": "日付",
+  "transaction_method": "方法",
+  "transaction_reason": "理由",
+  "weeks": "週"
 }

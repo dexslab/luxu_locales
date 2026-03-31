@@ -1013,5 +1013,16 @@
   "auto_duty_toggles_description": "进入值班时自动开启，离开值班时自动关闭的开关。",
   "chat_notification_position": "聊天通知位置",
   "open_player_stream": "打开玩家直播",
-  "reports_created_off_duty": "非值班时创建的举报"
+  "reports_created_off_duty": "非值班时创建的举报",
+  "bank": "银行",
+  "cash": "现金",
+  "money_transactions": "资金交易",
+  "money_transactions_description": "服务器资金变动的散点图。悬停可高亮显示某位玩家的交易记录。",
+  "months": "月",
+  "no_transaction_data": "暂无交易数据",
+  "showing_points": "显示 {shown} / {total} 笔交易（优先显示异常值）",
+  "transaction_date": "日期",
+  "transaction_method": "方式",
+  "transaction_reason": "原因",
+  "weeks": "周"
 }

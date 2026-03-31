@@ -1013,5 +1013,16 @@
   "auto_duty_toggles_description": "Przełączniki włączane automatycznie po rozpoczęciu służby i wyłączane po jej zakończeniu.",
   "chat_notification_position": "Pozycja powiadomienia czatu",
   "open_player_stream": "Otwórz stream gracza",
-  "reports_created_off_duty": "Zgłoszenia utworzone poza służbą"
+  "reports_created_off_duty": "Zgłoszenia utworzone poza służbą",
+  "bank": "Bank",
+  "cash": "Gotówka",
+  "money_transactions": "Transakcje pieniężne",
+  "money_transactions_description": "Wykres punktowy zmian pieniężnych na serwerze. Najedź, aby podświetlić transakcje gracza.",
+  "months": "Miesiące",
+  "no_transaction_data": "Brak danych o transakcjach",
+  "showing_points": "Wyświetlanie {shown} z {total} transakcji (priorytet wartości odstających)",
+  "transaction_date": "Data",
+  "transaction_method": "Metoda",
+  "transaction_reason": "Powód",
+  "weeks": "Tygodnie"
 }
